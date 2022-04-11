@@ -1,0 +1,17 @@
+.contacts{
+	float: left;
+	padding: 20px 0 0 10px;
+}
+.locate{
+	float: right;
+	padding-right: 25px;
+	padding-top: 5px;
+}
+iframe{
+	padding: 15px 10px 10px 0;
+	float: right;
+}
+
+a[itemprop = 'email']:hover{
+	color: purple;
+}

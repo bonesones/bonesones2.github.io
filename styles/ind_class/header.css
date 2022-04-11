@@ -1,0 +1,33 @@
+header{
+		background-color: #F5F5DC;
+	}
+.header{
+	overflow: hidden;
+	border-bottom: solid black 2px;
+}
+.logo{
+	float: left;
+
+}
+.round{
+	border-radius: 100px;
+	border: 3px solid brown;
+	box-shadow: 0 0 7px #666;
+}
+.contact{
+	float: right;
+}
+.full-name{
+	text-align: center;
+	padding: 20px 0 0 0;
+}
+.character{
+	font-size: 16px;
+	padding: 0 0 0 180px;
+}
+.name{
+	font-size: 28px	;
+}
+.hero{
+	font-size: 12px;
+}
