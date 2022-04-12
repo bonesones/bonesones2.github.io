@@ -30,3 +30,7 @@ header{
 .hero{
 	font-size: 12px;
 }
+header a:-webkit-any-link {
+    cursor: pointer;
+    text-decoration: none;
+}
