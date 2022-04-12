@@ -28,3 +28,7 @@
 .hero{
 	font-size: 12px;
 }
+a:-webkit-any-link {
+    cursor: pointer;
+    text-decoration: none;
+}
