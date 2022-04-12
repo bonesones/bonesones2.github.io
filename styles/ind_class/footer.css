@@ -1,10 +1,10 @@
 .contacts{
 	float: left;
-	padding: 20px 0 0 10px;
+	padding: 20px 0 0 20px;
 }
 .locate{
 	float: right;
-	padding-right: 25px;
+	padding-right: 35px;
 	padding-top: 10px;
 }
 iframe{
